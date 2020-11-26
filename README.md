@@ -1,24 +1,8 @@
 # comets-logger
 
-## Project setup
-```
-npm install
-```
+動いてるもの
+https://vibrant-beaver-82eb82.netlify.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+comets
+https://comets.nabettu.com/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
